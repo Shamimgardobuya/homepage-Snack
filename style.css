@@ -1,0 +1,101 @@
+body{
+background-color: #AB73EE;
+height: 400px;
+
+
+}
+.People li{
+    list-style-type: none;
+    text-align: center;
+    text-decoration-style: none;
+    /* padding-left: 7%; */
+
+}
+a{
+    padding-left: 11%;
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 20px;
+}
+ h1{
+font-size: 69px;
+
+color: antiquewhite;
+margin-left: 62px;
+
+} 
+p{
+    color: antiquewhite;
+    margin-left: 5%;
+}
+.We{
+   background-color: #FBC840;
+   padding: 12px;
+   border-radius: 12px;
+   font-weight: 200;
+   /* margin-right: -5%; */
+   margin-left: 7%;
+}
+.Three{
+    /* font-size: 23px; */
+    /* font-weight: bold; */
+    background-color: #FBC840;
+    padding: 17px;
+    /* color: #9D6F24; */
+    border-radius:18.7px ;
+    margin-top: 2.8%;
+    margin-left: 5%;
+
+}
+.fa-play{
+   color: #FBC840;
+   background-color: antiquewhite;
+   border-radius: 173%;
+   margin-left: 5%;
+   font-size: 19.7px;
+   padding: 12.21px;
+   /* padding-left: -4px; */
+   /* padding-right: -4px; */
+   /* width: 34px; */
+
+
+
+}
+.Video{
+    margin-left: 19.8%;
+    margin-top: -4%;
+}
+img{
+    /* background-color: #C5C3F5;
+    border: solid 13px #FFFF; */
+    width: 300px;
+    margin-top: -45%;
+    margin-left: 35%;
+    width: 500px;  
+    height: 500px;
+    /* border-radius: 55%;  */
+     
+}
+.Image{
+    background-color: #C5C3F5;
+    border: solid 13px #FFFF;  
+    /* border: radius 100% ; */
+    border-radius: 100px;
+    width:300px ;
+    margin-left: 44%;
+    height: 400px;
+    margin-top:-34px; 
+}
+.BoxImage{
+    margin-top: -445px;
+    margin-left: 10%;
+}
+h1 span{
+    color: #FBC840;
+}
+header {
+    font-size: 24px;
+    margin-top: 19px;
+    color: #FBC840;
+    
+}
